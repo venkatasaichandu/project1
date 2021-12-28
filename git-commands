@@ -1,0 +1,4 @@
+git init
+git config --global user.name "saichandu"
+git config --global user.email "saichandukatam99@gmail.com"
+git config --list
